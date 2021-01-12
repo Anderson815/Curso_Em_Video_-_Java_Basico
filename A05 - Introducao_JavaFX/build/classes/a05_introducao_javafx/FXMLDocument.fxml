@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="200" prefWidth="320" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="a05_introducao_javafx.FXMLDocumentController">
+   <children>
+      <Button fx:id="btnClique" layoutX="88.0" layoutY="100.0" mnemonicParsing="false" onAction="#clicouBotao" text="Clique em mim">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Label fx:id="lblMensagem" layoutX="38.0" layoutY="51.0" text="Aqui vai aparecer a mensagem" textAlignment="CENTER" textFill="#f20404">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
