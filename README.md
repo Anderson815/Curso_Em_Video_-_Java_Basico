@@ -1,4 +1,4 @@
-# Curso Em Vídeo : Java Iniciante
+# Curso Em Vídeo: Java Iniciante
 
 Exercícios ao longo do curso de **Java para Iniciante** da plataforma **Curso Em Vídeo**.
 
