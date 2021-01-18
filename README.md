@@ -1,6 +1,6 @@
 # Curso Em Vídeo: Java Iniciante
 
-Exercícios ao longo do curso de **Java para Iniciante** da plataforma **Curso Em Vídeo**.
+Exercícios ao longo do curso de **Java Básico** da plataforma **Curso Em Vídeo**.
 
 Nesse curso utiliza a **IDE NetBeans** e ensina:
 
