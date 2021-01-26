@@ -1,6 +1,6 @@
 # Curso Em Vídeo: Java Básico
 
-Exercícios ao longo do curso de **Java Básico** da plataforma **Curso Em Vídeo**.
+Exercícios ao longo do curso de **Java Básico** da plataforma <a href="https://www.cursoemvideo.com/cursos/">**Curso Em Vídeo**</a>.
 
 Nesse curso utiliza a **IDE NetBeans** e ensina:
 
